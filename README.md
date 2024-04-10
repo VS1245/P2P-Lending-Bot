@@ -1,6 +1,4 @@
-# P2P Lending Bot
-
-## Peer-to-Peer Lending Telegram Bot:
+# Peer-to-Peer Lending Telegram Bot:
 
 This Telegram bot facilitates peer-to-peer lending, allowing users to create, join, and manage lending groups, as well as request and lend money within those groups.
 
